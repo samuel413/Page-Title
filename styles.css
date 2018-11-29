@@ -1,0 +1,39 @@
+.title {
+    display:flex;
+    justify-content:space-around;
+}
+
+.face {
+    height:200px;
+    border:3px solid black;
+    background:tan;
+}
+
+.promises {
+    display:flex;
+    justify-content:center;
+    margin:20px;
+}
+
+.battle {
+    height:200px;
+    margin:10px;
+    border:3px solid black;
+}
+
+.credentials {
+    display:flex;
+    justify-content:center;
+    margin:20px;
+}
+
+.defending {
+    height:200px;
+    margin:10px;
+    border:3px solid black;
+}
+
+.caption2 {
+    display:flex;
+    justify-content:flex-end;
+}
